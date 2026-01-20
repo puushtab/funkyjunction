@@ -4,9 +4,12 @@
   # Funky Junction
   
   ## Qiskit Metal MCP Server
+  **Presentation video**
+  
 <a href="https://www.youtube.com/watch?v=TNYK-fpLb8I">
   <img src="https://img.youtube.com/vi/TNYK-fpLb8I/hqdefault.jpg" alt="Demo video" width="600">
 </a>
+
   A comprehensive Model Context Protocol (MCP) server for quantum circuit design using Qiskit Metal. This server provides tools, resources, and prompts for designing, simulating, and analyzing superconducting quantum circuits.
 
   *Built by **Team Silicon Architects** at the Stanford MCP x Quantum Science Hackathon 2025*
